@@ -7,3 +7,7 @@
 ## Scarface
 
 > "Diga \'Olá\' para meu pequeno amigo!"
+
+## Exterminador do Futuro 2
+
+> "Hasta la vista, baby."
